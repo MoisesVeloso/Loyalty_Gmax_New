@@ -47,7 +47,7 @@ Before running the system, ensure you have the following installed:
 
 ## Installation Guide
 
-> **Important:** The installation and setup steps below are **one-time only**. Once everything is configured, you do **not** need to repeat these steps every time you run the application except **npm run dev and node index.js*.
+> **Important:** The installation and setup steps below are **one-time only**. Once everything is configured, you do **not** need to repeat these steps every time you run the application except **npm run dev and node index.js**.
 
 ### 1. Download the Project
 
