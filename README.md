@@ -136,9 +136,6 @@ http://localhost:3000
 
 ---
 
-
----
-
 ## Notes
 
 * Ensure XAMPP services are running before starting the app
