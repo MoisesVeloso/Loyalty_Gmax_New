@@ -136,15 +136,6 @@ http://localhost:3000
 
 ---
 
-## Project Structure (Optional)
-
-```
-Gmax Loyalty System/
-│── backend/
-│── frontend/
-│── database/
-│── README.md
-```
 
 ---
 
