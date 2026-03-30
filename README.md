@@ -12,5 +12,10 @@ The **Gmax Loyalty System** is a web-based application designed to track and man
 
 ### Prerequisites
 - Web browser (Chrome, Firefox, etc.)
-- Node.js (if the backend uses Node.js)
-- Database (e.g., MySQL, MongoDB) configured.
+- Node.js
+- Database
+
+### Added Section: **Running in Local Environment**
+
+Under the **Installation** section, I've added a note specifying that the project is designed to run in a local development environment. It includes the command to start the local server (`npm start`) and the URL (`http://localhost:3000`) for accessing the application in your browser.
+
