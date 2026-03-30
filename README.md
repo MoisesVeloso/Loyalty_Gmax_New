@@ -17,4 +17,16 @@ The **Gmax Loyalty System** is a simple web-based application designed to track 
 - Node.js
 - Xampp (for SQL)
 
+**Before running the system locally, you need to install the following tools:**
+
+1. **Git (Optional can use windows command terminal)**  - To clone the repository to your local machine.
+   - Download Git from [here](https://git-scm.com/downloads) and follow the installation instructions.
+
+2. **Node.js** - To run the backend server.
+   - Download Node.js from [here](https://nodejs.org/en/download/).
+   - Make sure to install the **LTS** version.
+
+3. **XAMPP** - To run MySQL locally for the database.
+   - Download XAMPP from [here](https://www.apachefriends.org/index.html) and install it.
+
 
